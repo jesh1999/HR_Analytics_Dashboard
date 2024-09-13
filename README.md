@@ -3,7 +3,33 @@
 **
 The HR Analytics Dashboard provides a visual representation of employee attrition data, helping organizations understand turnover trends and identify areas for improvement. With clear and interactive charts, the dashboard displays attrition based on various factors such as age, education, salary, and years of service.
 ![image](https://github.com/user-attachments/assets/7bbef101-8dab-4332-9b58-ebc069d33c15)
-![image](https://github.com/user-attachments/assets/034c19b4-a52c-4d5d-aab7-e894347c78c4)
+**What is the Attrition Rate?**
+The dictionary definition of attrition is “gradually making something weaker and destroying it, especially the strength or confidence of an enemy by repeatedly attacking it.”
+
+But in the industrial world, the attrition rate is a metric used to calculate and analyze the rate at which employees in a company voluntarily leave. It also calculates the rate at which customers leave a business. The attrition rate is also known as the ‘churn rate.’
+
+Keeping track of attrition rates has become extremely important, mainly due to the skyrocketing resignation rates and even higher number of job openings brought on by the pandemic-induced ‘Great Resignation.’ Experts believe that the Great Resignation isn’t just a short-term swing in the industrial landscape but rather the beginning of a trend that will stick around for a while. 
+
+Having a clear vision of your company’s attrition rate is vital to understanding where it stands in terms of retaining employees. A high attrition rate can indicate several underlying issues, such as the lack of a competitive benefits package or a healthy work environment. 
+
+By calculating and analyzing your company’s attrition rate, you will be able to address these underlying issues and ensure the retention of top-performing employees. 
+![image](https://github.com/user-attachments/assets/0cc0cd30-22a5-4a76-bf00-6294791e9bc4)
+**What is Meant By A ‘High’ Employee Attrition Rate?
+**
+A high employee attrition rate indicates that your employees are not sticking with your company for long, while a low attrition rate means that your company has better employee retention. 
+
+Attrition rates vary due to several factors, such as:
+
+Size of a company
+Industry niche and
+Location of a company
+A high attrition rate in the workplace can occur not just because employees leave but when a business can’t replace them quickly. Employees leaving for any reason, voluntarily or involuntarily, contribute to attrition.
+
+Five Types of Attrition Rate
+A high employee attrition rate has become a top concern for companies today. In many instances, employees leaving the company faster than they are hired is out of the manager’s control.
+
+But before we get into more details about attrition rate, let’s look at its five types.
+
 
 **Key features include:
 **
@@ -12,7 +38,8 @@ The HR Analytics Dashboard provides a visual representation of employee attritio
 **Attrition by Salary:** Analyze the impact of salary on employee retention.
 **Attrition over Time:** Track how attrition trends evolve year by year.
 This dashboard serves as a valuable tool for HR teams to make data-driven decisions aimed at reducing employee attrition and improving retention strategies.
-
+Causes of High Employee Attrition
+There can be several reasons for a high employee attrition rate, many of which might be outside your control. For example, employees might leave for personal reasons like family requirements or medical emergencies. The company itself induces other causes of attrition, like transfers, downsizing, organizational restructuring or termination. 
 **Dashboard Elements:**
 Top Section: Overall Attrition Metrics:
 
