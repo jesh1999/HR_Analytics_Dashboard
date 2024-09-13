@@ -2,6 +2,8 @@
 **Description:
 **
 The HR Analytics Dashboard provides a visual representation of employee attrition data, helping organizations understand turnover trends and identify areas for improvement. With clear and interactive charts, the dashboard displays attrition based on various factors such as age, education, salary, and years of service.
+![image](https://github.com/user-attachments/assets/7bbef101-8dab-4332-9b58-ebc069d33c15)
+![image](https://github.com/user-attachments/assets/034c19b4-a52c-4d5d-aab7-e894347c78c4)
 
 **Key features include:
 **
